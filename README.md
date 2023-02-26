@@ -1,7 +1,7 @@
 
 # Hi, I'm Tauhid Hasan! 👋
 
-This is Tauhid Hasan. Currently Studying CSE at United Interntional University and working as Full-Stack Web Developer at Softrixbd.com.
+Currently Studying CSE at United Interntional University and working as Full-Stack Web Developer at Softrixbd.com.
 
 
 
